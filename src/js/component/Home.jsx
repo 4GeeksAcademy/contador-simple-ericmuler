@@ -8,7 +8,7 @@ const Home = () => {
 	return (
 		<div className="container ">
 			<div className="d-flex justify-content-center mt-5">
-				<h1>El tiempo va pasando....<ContadorDeSegundos/> segundos mas cerca de la muerte</h1>
+				<h1 className="head">Ya estas<ContadorDeSegundos/> segundos mas cerca de la muerte</h1>
 			</div>
 			
 		</div>

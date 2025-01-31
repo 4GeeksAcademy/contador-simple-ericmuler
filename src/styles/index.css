@@ -1,0 +1,6 @@
+.head {
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Opcional: hace que el contenedor ocupe toda la pantalla */
+    
+}
